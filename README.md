@@ -36,6 +36,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKusuluri08&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenKusuluri08&show_icons=true&theme=theme_name)](https://git.io/PraveenKusuluri08)
+
 [![Praveen's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PraveenKusuluri08&theme=react-dark&hide_border=true&area=true)](https://git.io/PraveenKusuluri08)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKusuluri08&theme=tokyonight)
  
