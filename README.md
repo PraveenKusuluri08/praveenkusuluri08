@@ -199,4 +199,9 @@
   <a href="https://www.hackerrank.com/praveenkusuluri1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-0D141E?style=for-the-badge&logo=hackerrank&logoColor=green"/>
   </a>
+  <a href="https://praveenkusuluri.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-praveenkusuluri.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+
 </p>
